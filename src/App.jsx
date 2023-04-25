@@ -1,5 +1,4 @@
-import movies from "./movies.json";
-const data = movies;
+import data from "./data.json";
 
 import "./App.css";
 
